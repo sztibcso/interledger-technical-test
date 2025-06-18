@@ -1,0 +1,11 @@
+
+---
+
+### 🔗 7. GitHub repo létrehozás
+
+```bash
+git init
+git remote add origin https://github.com/<felhasználónév>/interledger-peer-cli.git
+git add .
+git commit -m "Initial project setup with Docker and TypeScript"
+git push -u origin main
